@@ -5,7 +5,7 @@ import java.awt.Color;
 /**
  * Blue color view of the game board
  * @author Alan Chin
- *
+ * @author Mike Royal
  */
 public class BlueView implements View{
 	
