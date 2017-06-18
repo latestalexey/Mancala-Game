@@ -4,7 +4,7 @@ import java.awt.Color;
 
 /**
  * Pink view of the game board
- * @author Alan Chin
+ * @author Alan Chin, Mike Royal
  *
  */
 public class PinkView implements View{
