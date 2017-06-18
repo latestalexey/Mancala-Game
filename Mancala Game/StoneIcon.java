@@ -11,7 +11,7 @@ import javax.swing.Icon;
 /**
  * Icon that will display Stones in the pockets as well
  * as the Mancala pools at the ends
- * @author Alan Chin
+ * @author Alan Chin, Mike Royal
  */
 public class StoneIcon implements Icon{
 	
