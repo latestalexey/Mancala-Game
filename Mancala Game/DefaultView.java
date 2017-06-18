@@ -6,6 +6,7 @@ import java.awt.Color;
  * Default view of the game board
  * Game board will use this if any error happen with selection
  * @author Alan Chin
+ * @author Mike Royal
  *
  */
 public class DefaultView implements View{
