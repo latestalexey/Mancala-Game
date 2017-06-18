@@ -5,7 +5,7 @@ import java.util.Observable;
 
 /**
  * Model for the Mancala game that holds all the information
- * @author Jordan Jennings, Alan Chin
+ * @author Jordan Jennings, Alan Chin, Mike Royal
  */
 public class Model extends Observable{
 	
