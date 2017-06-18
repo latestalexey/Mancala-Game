@@ -23,7 +23,7 @@ import javax.swing.border.TitledBorder;
  * This class acts as the VIEW and CONTROLLER for the Mancala Game.
  * The inner Class POCKETBUTTON will act as a controller and update the 
  * model accordingly.
- * @author Alan Chin
+ * @author Alan Chin, Mike Royal
  *
  */
 public class ViewController extends JFrame implements Observer{
