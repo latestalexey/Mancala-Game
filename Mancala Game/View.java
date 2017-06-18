@@ -4,7 +4,7 @@ import java.awt.Color;
 
 /**
  * Interface for Views
- * @author Alan Chin
+ * @author Alan Chin, Mike Royal
  *
  */
 public interface View {
