@@ -2,7 +2,7 @@ package mancala;
 
 /**
  *
- * @author Mike
+ * @author Mike Royal
  */
 import java.awt.*;
 import java.awt.event.ActionEvent;
