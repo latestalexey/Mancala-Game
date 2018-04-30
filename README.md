@@ -1,7 +1,8 @@
 # Mancala-Game
-Mancala, is a 2-player turn-based strategy board game played with small stones and rows of pits on a board. The objective is usually to capture all or some set of the opponent's stones.
+[Mancala](https://www.thesprucecrafts.com/how-to-play-mancala-409424), is a 2-player turn-based strategy board game played with small stones and rows of pits on a board. The objective is usually to capture all or some set of the opponent's stones.
 
 ![mancala_board](https://user-images.githubusercontent.com/18353476/27533704-66246efa-5a19-11e7-8a00-0ea8d42156a9.png)
+![mancala](https://user-images.githubusercontent.com/18353476/39416679-b9c761b6-4c03-11e8-86f6-a1f7ae14791c.jpg)
 
 # Use Cases
 
