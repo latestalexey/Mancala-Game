@@ -2,7 +2,6 @@
 [Mancala](https://www.thesprucecrafts.com/how-to-play-mancala-409424), is a 2-player turn-based strategy board game played with small stones and rows of pits on a board. The objective is usually to capture all or some set of the opponent's stones.
 
 ![mancala_board](https://user-images.githubusercontent.com/18353476/27533704-66246efa-5a19-11e7-8a00-0ea8d42156a9.png)
-![mancala](https://user-images.githubusercontent.com/18353476/39416679-b9c761b6-4c03-11e8-86f6-a1f7ae14791c.jpg)
 
 # Use Cases
 
@@ -62,3 +61,15 @@ The [Native Development Kit (NDK)](https://developer.android.com/ndk/guides/inde
   Reuse your own or other developers' C or C++ libraries.
 
 Using Android Studio 2.2 and higher, you can use the NDK to compile C and C++ code into a native library and package it into your APK using Gradle, the IDE's integrated build system. Your Java code can then call functions in your native library through the Java Native Interface (JNI) framework. To learn more about Gradle and the Android build system, read Configure Your Build.
+
+# Kotlin Applications in Android Studio
+
+[Kotlin Documentation](https://kotlinlang.org/docs/reference/)
+
+[Get Started with Kotlin on Android](https://developer.android.com/kotlin/get-started)
+
+[Getting started with Android and Kotlin](https://kotlinlang.org/docs/tutorials/kotlin-android.html)
+
+[Kotlin Sample Projects](https://developer.android.com/samples/?language=kotlin)
+
+![kotlin support android](https://user-images.githubusercontent.com/18353476/39689086-3452b5e4-518a-11e8-9082-00f844205962.png)
